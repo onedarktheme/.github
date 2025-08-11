@@ -9,6 +9,10 @@
     <a href="https://github.com/onedarktheme/onedark/contributors"><img src="https://img.shields.io/github/contributors/onedarktheme/onedark?colorA=282c34&colorB=98c379&style=for-the-badge"></a>
 </p>
 
+<h6 align="center">
+    <a href="https://github.com/onedarktheme/onedark#-palette">Palette</a>
+</h6>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/onedarktheme/onedark/master/assets/palette/dark.png" width="400" />
 </p>
