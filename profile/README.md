@@ -4,6 +4,15 @@
 </h3>
 
 <p align="center">
+    <a href="https://github.com/onedarktheme/onedark/stargazers"><img src="https://img.shields.io/github/stars/onedarktheme/onedark?colorA=282c34&colorB=c678dd&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/onedark/issues"><img src="https://img.shields.io/github/issues/onedarktheme/onedark?colorA=282c34&colorB=d19a66&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/onedark/contributors"><img src="https://img.shields.io/github/contributors/onedarktheme/onedark?colorA=282c34&colorB=98c379&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/onedarktheme/onedark/master/assets/palette/dark.png" width="400" />
+</p>
+<p align="center">
     OneDark is an open-source theme inspired by the iconic 
     <a href="https://github.com/atom/atom/tree/master/packages/one-dark-ui">Atom One Dark UI</a> 
     and the Neovim port 
